@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95978656753",
+    "project_id": "fcm-app-antonio",
+    "storage_bucket": "fcm-app-antonio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95978656753:android:1cc688a23801a8c5a5aa50",
+        "android_client_info": {
+          "package_name": "com.antonioapps.fcm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUwLpC50HCKMPLrIoPzX4Gjs8XgfZIc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
